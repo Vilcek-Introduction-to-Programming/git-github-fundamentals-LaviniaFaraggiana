@@ -1,0 +1,8 @@
+Homeworks:
+
+I learnt the basic concepts of GitHub, that I had heard about a lot. I find Github and R still confusing, as I had never worked with them before.
+But I am happy to finally become familiar with things that I had only heard about.
+
+Wilson et al. discusses good practice for computational reproducibility and how tools like GitHub and R can be used. Whenever the code is updated, 
+it is possible to track changes in Github by submitting a pull request. This permits to improve the reproducibility of the works, as changes 
+made to the code con be tracked and it it possible to go back to previous versions. 
